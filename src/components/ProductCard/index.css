@@ -1,7 +1,7 @@
 /* TODO: Add your CSS here */
 .product-link {
   outline: none;
-  text-decoration: none;
+  text-decoration: none; // for removing the blue line in link item text-decoration none should be added
 }
 
 .product-item {
